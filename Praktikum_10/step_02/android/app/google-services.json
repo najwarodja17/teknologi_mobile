@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1032054089420",
+    "project_id": "najwa-firebase-b8834",
+    "storage_bucket": "najwa-firebase-b8834.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1032054089420:android:b1530342b3d609c6a10469",
+        "android_client_info": {
+          "package_name": "com.example.gtk_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDm00UwuqkJ9AASHYvZNDayN3Uwcs9cETM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
